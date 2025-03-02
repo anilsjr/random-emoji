@@ -2,6 +2,9 @@
 
 This project generates random emojis using JavaScript, CSS, and HTML.
 
+# live
+https://anilsjr.github.io/random-emoji
+
 ## Features
 
 - Generates random emojis
