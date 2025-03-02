@@ -1,6 +1,6 @@
-const emojiChar = document.getElementById('emoji-char');
+const emojiChar = document.getElementById('btn');
 const emojiName = document.getElementById('emoji-name');
-const btn = document.getElementById('btn');
+
 let emojisArr = [];
 
 window.onload = async () => {
